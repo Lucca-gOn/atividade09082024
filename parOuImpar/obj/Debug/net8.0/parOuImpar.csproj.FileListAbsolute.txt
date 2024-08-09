@@ -1,0 +1,14 @@
+C:\Users\51021784826\Desktop\Aitividade 09082024\parOuImpar\obj\Debug\net8.0\parOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51021784826\Desktop\Aitividade 09082024\parOuImpar\obj\Debug\net8.0\parOuImpar.AssemblyInfoInputs.cache
+C:\Users\51021784826\Desktop\Aitividade 09082024\parOuImpar\obj\Debug\net8.0\parOuImpar.AssemblyInfo.cs
+C:\Users\51021784826\Desktop\Aitividade 09082024\parOuImpar\obj\Debug\net8.0\parOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\51021784826\Desktop\Aitividade 09082024\parOuImpar\bin\Debug\net8.0\parOuImpar.exe
+C:\Users\51021784826\Desktop\Aitividade 09082024\parOuImpar\bin\Debug\net8.0\parOuImpar.deps.json
+C:\Users\51021784826\Desktop\Aitividade 09082024\parOuImpar\bin\Debug\net8.0\parOuImpar.runtimeconfig.json
+C:\Users\51021784826\Desktop\Aitividade 09082024\parOuImpar\bin\Debug\net8.0\parOuImpar.dll
+C:\Users\51021784826\Desktop\Aitividade 09082024\parOuImpar\bin\Debug\net8.0\parOuImpar.pdb
+C:\Users\51021784826\Desktop\Aitividade 09082024\parOuImpar\obj\Debug\net8.0\parOuImpar.dll
+C:\Users\51021784826\Desktop\Aitividade 09082024\parOuImpar\obj\Debug\net8.0\refint\parOuImpar.dll
+C:\Users\51021784826\Desktop\Aitividade 09082024\parOuImpar\obj\Debug\net8.0\parOuImpar.pdb
+C:\Users\51021784826\Desktop\Aitividade 09082024\parOuImpar\obj\Debug\net8.0\parOuImpar.genruntimeconfig.cache
+C:\Users\51021784826\Desktop\Aitividade 09082024\parOuImpar\obj\Debug\net8.0\ref\parOuImpar.dll

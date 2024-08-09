@@ -1,0 +1,14 @@
+C:\Users\51021784826\Desktop\Aitividade 09082024\somaNumerosPares\bin\Debug\net8.0\somaNumerosPares.exe
+C:\Users\51021784826\Desktop\Aitividade 09082024\somaNumerosPares\bin\Debug\net8.0\somaNumerosPares.deps.json
+C:\Users\51021784826\Desktop\Aitividade 09082024\somaNumerosPares\bin\Debug\net8.0\somaNumerosPares.runtimeconfig.json
+C:\Users\51021784826\Desktop\Aitividade 09082024\somaNumerosPares\bin\Debug\net8.0\somaNumerosPares.dll
+C:\Users\51021784826\Desktop\Aitividade 09082024\somaNumerosPares\bin\Debug\net8.0\somaNumerosPares.pdb
+C:\Users\51021784826\Desktop\Aitividade 09082024\somaNumerosPares\obj\Debug\net8.0\somaNumerosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51021784826\Desktop\Aitividade 09082024\somaNumerosPares\obj\Debug\net8.0\somaNumerosPares.AssemblyInfoInputs.cache
+C:\Users\51021784826\Desktop\Aitividade 09082024\somaNumerosPares\obj\Debug\net8.0\somaNumerosPares.AssemblyInfo.cs
+C:\Users\51021784826\Desktop\Aitividade 09082024\somaNumerosPares\obj\Debug\net8.0\somaNumerosPares.csproj.CoreCompileInputs.cache
+C:\Users\51021784826\Desktop\Aitividade 09082024\somaNumerosPares\obj\Debug\net8.0\somaNumerosPares.dll
+C:\Users\51021784826\Desktop\Aitividade 09082024\somaNumerosPares\obj\Debug\net8.0\refint\somaNumerosPares.dll
+C:\Users\51021784826\Desktop\Aitividade 09082024\somaNumerosPares\obj\Debug\net8.0\somaNumerosPares.pdb
+C:\Users\51021784826\Desktop\Aitividade 09082024\somaNumerosPares\obj\Debug\net8.0\somaNumerosPares.genruntimeconfig.cache
+C:\Users\51021784826\Desktop\Aitividade 09082024\somaNumerosPares\obj\Debug\net8.0\ref\somaNumerosPares.dll

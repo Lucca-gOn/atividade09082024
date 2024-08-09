@@ -1,0 +1,14 @@
+C:\Users\51021784826\Desktop\Aitividade 09082024\alfabeto\bin\Debug\net8.0\alfabeto.exe
+C:\Users\51021784826\Desktop\Aitividade 09082024\alfabeto\bin\Debug\net8.0\alfabeto.deps.json
+C:\Users\51021784826\Desktop\Aitividade 09082024\alfabeto\bin\Debug\net8.0\alfabeto.runtimeconfig.json
+C:\Users\51021784826\Desktop\Aitividade 09082024\alfabeto\bin\Debug\net8.0\alfabeto.dll
+C:\Users\51021784826\Desktop\Aitividade 09082024\alfabeto\bin\Debug\net8.0\alfabeto.pdb
+C:\Users\51021784826\Desktop\Aitividade 09082024\alfabeto\obj\Debug\net8.0\alfabeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51021784826\Desktop\Aitividade 09082024\alfabeto\obj\Debug\net8.0\alfabeto.AssemblyInfoInputs.cache
+C:\Users\51021784826\Desktop\Aitividade 09082024\alfabeto\obj\Debug\net8.0\alfabeto.AssemblyInfo.cs
+C:\Users\51021784826\Desktop\Aitividade 09082024\alfabeto\obj\Debug\net8.0\alfabeto.csproj.CoreCompileInputs.cache
+C:\Users\51021784826\Desktop\Aitividade 09082024\alfabeto\obj\Debug\net8.0\alfabeto.dll
+C:\Users\51021784826\Desktop\Aitividade 09082024\alfabeto\obj\Debug\net8.0\refint\alfabeto.dll
+C:\Users\51021784826\Desktop\Aitividade 09082024\alfabeto\obj\Debug\net8.0\alfabeto.pdb
+C:\Users\51021784826\Desktop\Aitividade 09082024\alfabeto\obj\Debug\net8.0\alfabeto.genruntimeconfig.cache
+C:\Users\51021784826\Desktop\Aitividade 09082024\alfabeto\obj\Debug\net8.0\ref\alfabeto.dll

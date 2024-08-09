@@ -1,0 +1,14 @@
+C:\Users\51021784826\Desktop\Aitividade 09082024\programaNome\bin\Debug\net8.0\programaNome.exe
+C:\Users\51021784826\Desktop\Aitividade 09082024\programaNome\bin\Debug\net8.0\programaNome.deps.json
+C:\Users\51021784826\Desktop\Aitividade 09082024\programaNome\bin\Debug\net8.0\programaNome.runtimeconfig.json
+C:\Users\51021784826\Desktop\Aitividade 09082024\programaNome\bin\Debug\net8.0\programaNome.dll
+C:\Users\51021784826\Desktop\Aitividade 09082024\programaNome\bin\Debug\net8.0\programaNome.pdb
+C:\Users\51021784826\Desktop\Aitividade 09082024\programaNome\obj\Debug\net8.0\programaNome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51021784826\Desktop\Aitividade 09082024\programaNome\obj\Debug\net8.0\programaNome.AssemblyInfoInputs.cache
+C:\Users\51021784826\Desktop\Aitividade 09082024\programaNome\obj\Debug\net8.0\programaNome.AssemblyInfo.cs
+C:\Users\51021784826\Desktop\Aitividade 09082024\programaNome\obj\Debug\net8.0\programaNome.csproj.CoreCompileInputs.cache
+C:\Users\51021784826\Desktop\Aitividade 09082024\programaNome\obj\Debug\net8.0\programaNome.dll
+C:\Users\51021784826\Desktop\Aitividade 09082024\programaNome\obj\Debug\net8.0\refint\programaNome.dll
+C:\Users\51021784826\Desktop\Aitividade 09082024\programaNome\obj\Debug\net8.0\programaNome.pdb
+C:\Users\51021784826\Desktop\Aitividade 09082024\programaNome\obj\Debug\net8.0\programaNome.genruntimeconfig.cache
+C:\Users\51021784826\Desktop\Aitividade 09082024\programaNome\obj\Debug\net8.0\ref\programaNome.dll
